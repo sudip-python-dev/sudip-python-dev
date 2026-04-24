@@ -21,5 +21,6 @@ and building automation scripts.
 
 ## My Projects
 
-- Quotes Scraper
-- Pagination Scraper (Coming Soon)
+- Country Data Scraper
+- Quotes Web Scraper
+- Pagination Scraper
