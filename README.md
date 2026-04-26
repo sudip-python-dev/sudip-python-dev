@@ -24,3 +24,4 @@ and building automation scripts.
 - Country Data Scraper
 - Quotes Web Scraper
 - Pagination Scraper
+- Books Pagination Scraper
