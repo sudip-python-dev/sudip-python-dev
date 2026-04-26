@@ -13,11 +13,12 @@ and building automation scripts.
 - Requests
 - BeautifulSoup
 - CSV Data Handling
+- Pagination Scraping
 
 ## Currently Learning
 
-- Pagination Scraping
-- Selenium (Next step)
+- Scrapy
+- Selenium
 
 ## My Projects
 
